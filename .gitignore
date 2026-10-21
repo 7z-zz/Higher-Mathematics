@@ -1,0 +1,13 @@
+.env
+.env.*
+*.log
+*.tmp
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/
+.DS_Store
+Thumbs.db
+/.obsidian/
+/test/
+/draft/
+/Materials/
